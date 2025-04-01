@@ -4,7 +4,7 @@ package ac_conditionalsloops.lecture;
 
 import java.util.Scanner;
 
-public class Question_07 {
+public class Code_07 {
     public static void main(String[] args) {
         int num;
         int rev = 0;

@@ -4,7 +4,7 @@ package ab_firstjava.lecture;
 
 import java.util.Scanner;
 
-public class Question_03 {
+public class Code_03 {
     public static void main(String[] args) {
         int num;
         System.out.print("Enter your name : ");

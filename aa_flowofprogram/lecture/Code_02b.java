@@ -4,7 +4,7 @@ package aa_flowofprogram.lecture;
 
 import java.util.Scanner;
 
-public class Question_02b{
+public class Code_02b{
     public static void main(String[] args) {
         int num;
         boolean flag = true;

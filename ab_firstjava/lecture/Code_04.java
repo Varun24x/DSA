@@ -4,7 +4,7 @@ package ab_firstjava.lecture;
 
 import java.util.Scanner;
 
-public class Question_04 {
+public class Code_04 {
     public static void main(String[] args) {
         
         try(Scanner sc = new Scanner(System.in)){

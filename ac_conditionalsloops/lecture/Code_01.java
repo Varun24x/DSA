@@ -1,6 +1,6 @@
 package ac_conditionalsloops.lecture;
 
-public class Question_01 {
+public class Code_01 {
     public static void main(String[] args) {
         
         // If-else statement

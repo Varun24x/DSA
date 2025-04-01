@@ -3,7 +3,7 @@ package ac_conditionalsloops.lecture;
 // ALphabet case check
 
 import java.util.Scanner;
-public class Question_4 {
+public class Code_04 {
     public static void main(String[] args) {
         int alpha;
         try(Scanner sc = new Scanner(System.in)){

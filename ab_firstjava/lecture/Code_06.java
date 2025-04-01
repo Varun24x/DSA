@@ -1,6 +1,6 @@
 package ab_firstjava.lecture;
 
-public class Question_06 {
+public class Code_06 {
     public static void main(String[] args) {
         
         // Type conversion

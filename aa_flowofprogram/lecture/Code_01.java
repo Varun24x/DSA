@@ -6,15 +6,14 @@ package aa_flowofprogram.lecture;
 
 import java.util.Scanner;
 
-public class Question_01{
+public class Code_01{
     public static void main(String[] args) {
         int salary;
         int bonus;
         int pay; 
         System.out.print("Enter the Salary : ");
-        try (Scanner sc = new Scanner(System.in)) {
+        Scanner sc = new Scanner(System.in);
             salary = sc.nextInt();
-        }
         if(salary > 20000){
             bonus = 2000;
         }else{

@@ -1,6 +1,6 @@
 package ac_conditionalsloops.lecture;
 
-public class Question_02 {
+public class Code_02 {
     public static void main(String[] args) {
         
         // Loops

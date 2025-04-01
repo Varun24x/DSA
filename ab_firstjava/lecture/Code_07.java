@@ -1,6 +1,6 @@
 package ab_firstjava.lecture;
 
-public class Question_07 {
+public class Code_07 {
     public static void main(String[] args) {
         // If Statement 
         int a = 5;
