@@ -8,6 +8,7 @@ public class Question_05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sum = 0;
+        System.out.println("Keep entering numbers for sum and enter x to stop");
         while(true){
             String val = sc.next();
             if(val.equals("X")|| val.equals("x")){
@@ -15,6 +16,6 @@ public class Question_05 {
             }
             sum = sum + Integer.parseInt(val);
         }
-        System.out.println(sum);
+        System.out.println("Sum of all the above numbers is : " + sum);
     }
 }
